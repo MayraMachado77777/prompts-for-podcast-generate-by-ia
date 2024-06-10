@@ -46,6 +46,7 @@ Aqui está o áudio gerado para o podcast:
 
 <audio controls>
   <source src="src/audio1.mp3" type="audio/mpeg">
+https://on.soundcloud.com/6mxeMZ1j1cmCjZPYA
   Seu navegador não suporta o elemento de áudio.
 </audio>
 
