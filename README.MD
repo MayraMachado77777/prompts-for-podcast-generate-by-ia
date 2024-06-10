@@ -38,7 +38,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ### Imagem de Capa do Podcast
 
-![Dominando o Angular: Guia Completo para Iniciantes](src/img3jpg.jpg)
+![Dominando o Angular: Guia Completo para Iniciantes](img3.jpg)
 
 ### Áudio do Podcast
 
