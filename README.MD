@@ -50,3 +50,5 @@ Aqui está o áudio gerado para o podcast:
 </audio>
 
 ---
+
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
